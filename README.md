@@ -1,2 +1,5 @@
 # Belajar-Python
-Repo belajar python Abyan
+
+Dokumentasi/catatan/latihan belajar Python Abyan
+
+Sumber kodingan diambil dari dicoding.com
